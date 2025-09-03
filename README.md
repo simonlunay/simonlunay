@@ -24,16 +24,9 @@
 ---
 
 ## 📈 Currently  
-- Interning & exploring software engineering opportunities (👀 open to feedback on compensation & career path)  
+- Interning & exploring software engineering opportunities
 - Building projects that are both **resume-ready** and **technically deep**  
 - Competing in a **20-team guillotine fantasy football league** (yes, it’s as cutthroat as it sounds)  
-
----
-
-## ⚡ Fun Facts  
-- I’m working on a **personal portfolio site** with dark/light mode toggle.  
-- I hoop 2–3 times a week — recent runs include 3v3 hot streaks and testing my skills in 5v5.  
-- Always down to learn, whether it’s reverse engineering, systems programming, or cooking better broccoli 🥦.  
 
 ---
 
