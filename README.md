@@ -38,7 +38,7 @@
 ---
 
 ## 📫 Let’s Connect  
-- **Portfolio:** [simonlunay.com](http://simonlunay.com)  
+- **Portfolio:** [simonlunay.com](http://www.simonlunay.com)  
 - **LinkedIn:** [linkedin.com/in/simonlunay](https://linkedin.com/in/simonlunay)  
 - **Email:** simonlunay@gmail.com  
 
