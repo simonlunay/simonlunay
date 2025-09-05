@@ -7,11 +7,9 @@
 
 ## 💻 What I’ve Been Working On  
 - **⚡ AI Sports Predictor** – Live app that predicts sports outcomes using machine learning.  
-- **🌐 JCL Website** – Full-stack project with a custom React/Tailwind frontend (Vercel) and Express/Node backend (Render).  
-- **🎮 Game + Cheats Project** – Building a game from scratch, then creating cheats for it to showcase security & reverse engineering skills.  
-- **🌳 Data Structures** – Red-Black Trees in both Java & C.  
-- **🔢 Algorithms** – Prim’s and Dijkstra’s implementations for graph problems.  
-- **🛠 Systems** – Translating C programs with structs & arithmetic into x86-64 assembly.  
+- **🌐 JCL Website** – Full-stack project with a custom React/Tailwind frontend (Vercel) and Express/Node backend (Render).   
+- **React Portfolio** – Building a react portfolio website in React and Tailwind CSS.  
+-  
 
 ---
 
@@ -25,7 +23,7 @@
 
 ## 📈 Currently  
 - Interning & exploring software engineering opportunities
-- Building projects that are both **resume-ready** and **technically deep**  
+- Building projects that **solve problems** in my life and can be used **by all** 
 - Competing in a **20-team guillotine fantasy football league** (yes, it’s as cutthroat as it sounds)  
 
 ---
