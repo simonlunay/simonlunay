@@ -9,7 +9,7 @@
 - **⚡ AI Sports Predictor** – Live app that predicts sports outcomes using machine learning.  
 - **🌐 JCL Website** – Full-stack project with a custom React/Tailwind frontend (Vercel) and Express/Node backend (Render).   
 - **React Portfolio** – Building a react portfolio website in React and Tailwind CSS.  
--  
+  
 
 ---
 
