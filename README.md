@@ -24,7 +24,7 @@
 ## 📈 Currently  
 - Interning & exploring software engineering opportunities
 - Building projects that **solve problems** in my life and can be used **by all** 
-- Competing in a **20-team guillotine fantasy football league** (yes, it’s as cutthroat as it sounds)  
+- Grinding **LeetCode** 
 
 ---
 
