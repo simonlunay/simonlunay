@@ -35,4 +35,26 @@
 
 ---
 
+## 🧑‍💼 Client & Professional Work
+
+Several projects I’ve worked on were developed for clients or organizations
+and are maintained in private repositories.
+
+These include:
+- React-based marketing and campaign websites
+- Fully responsive front-end builds refined through multiple feedback-driven iterations
+- Production deployments serving real users under real constraints
+
+In addition to front-end work, some projects include **backend-supported features**
+that allow clients to manage and update site content without developer involvement.
+
+This includes:
+- Secure, non-public editing interfaces
+- Client-facing controls for updating text, images, and page content
+- Separation between public-facing UI and administrative functionality
+- Design decisions focused on usability for non-technical users
+
+Live examples, technical details, and project walkthroughs are available upon request.
+---
+
 ✨ *Always building, always learning.*  
