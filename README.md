@@ -55,6 +55,7 @@ This includes:
 - Design decisions focused on usability for non-technical users
 
 Live examples, technical details, and project walkthroughs are available upon request.
+
 ---
 
 ✨ *Always building, always learning.*  
