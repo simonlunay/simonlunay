@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Simon  
 
-🚀 Software developer & student with a passion for building, learning, and breaking things (ethically).  
-🏀 When I’m not coding, you’ll probably find me on the court working on my shot creation and handles. 
+🚀 Software developer & student with a passion for building projects, learning new technologies, and problem solving.  
+🏀 When I’m not coding, I love playing basketball and skiing.
 
 ---
 
@@ -58,4 +58,3 @@ Live examples, technical details, and project walkthroughs are available upon re
 
 ---
 
-✨ *Always building, always learning.*  
