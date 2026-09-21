@@ -39,10 +39,10 @@ A health symptom checker built in 48 hours where the symptom data never leaves t
 **FitAI**
 A hackathon project for Ohio State students who are nervous about starting at the gym. A React frontend runs a TensorFlow.js body scan, then uses the Gemini API and a PostgreSQL database to generate a personalized workout and diet plan.
 
-**Fantasy Predictor**
+**Fantasy Predictor**([fantasy-predictor-pi.vercel.app](https://fantasy-predictor-pi.vercel.app/))
 A machine learning app that predicts NFL and NBA stat lines based on the opponent and whether the game is home or away. Built with React and Python.
 
-**Kim McCarthy for Ohio**
+**Kim McCarthy for Ohio**([kimmcarthyohio.com](https://www.kimmccarthyohio.com/))
 A responsive campaign website for a political client, built in React and refined over several rounds of stakeholder feedback.
 
 **JCL Equipment Website** ([jclequipment.com](https://www.jclequipment.com))
