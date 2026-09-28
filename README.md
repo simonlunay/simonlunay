@@ -19,7 +19,7 @@ Course operations and assessment support.
 **Software Research Assistant, Ohio State** (Sep 2025 to Sep 2026)
 Database engineering and data visualization.
 
-**Software Engineer Intern, JCL Equipment Co.** (Summers 2024 and 2025)
+**Software Engineer Intern, JCL Equipment Co.** (May 2024 to August 2025)
 Sped up database queries by 30% and automated manual transaction logging with a Python script, saving 10+ hours a week.
 
 ## Projects
