@@ -4,7 +4,7 @@ CS&E at The Ohio State University (AI specialization, Math minor), graduating Ma
 
 ## Experience
 
-**Software Engineer Intern, Fidelity Investments** (Summer 2026)
+**Software Engineer Intern, Fidelity Investments** (May 2026 to Aug 2026)
 Built and deployed an autonomous AI agent that cut a manual workflow from 18 minutes to 2, and redesigned two internal enterprise apps used by 300+ people daily.
 
 **AI/ML Research Assistant, Kumar Lab, Ohio State** (Aug 2026 to present)
@@ -13,7 +13,7 @@ Multi-vector retrieval for rare medical cases with PubMedBERT and FAISS.
 **Lead Developer, Columbus/Central Ohio Colleges Agency** (Nov 2025 to present)
 Lead a ~20-person student team building full-stack platforms for 10+ nonprofit clients.
 
-**Software Engineer Intern, JCL Equipment Co.** (May 2024 to August 2025)
+**Software Engineer Intern, JCL Equipment Co.** (May 2024 to Aug 2025)
 Sped up database queries by 30% and automated transaction logging, saving 10+ hours a week.
 
 ## Client work
