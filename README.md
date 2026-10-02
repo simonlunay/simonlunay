@@ -13,7 +13,7 @@ Multi-vector retrieval for rare medical cases with PubMedBERT and FAISS.
 **Lead Developer, Columbus/Central Ohio Colleges Agency** (Nov 2025 to present)
 Lead a ~20-person student team building full-stack platforms for 10+ nonprofit clients.
 
-**Software Engineer Intern, JCL Equipment Co.** (2024 to 2025)
+**Software Engineer Intern, JCL Equipment Co.** (May 2024 to August 2025)
 Sped up database queries by 30% and automated transaction logging, saving 10+ hours a week.
 
 ## Client work
